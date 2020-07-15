@@ -1,0 +1,1 @@
+motion_set(point_direction(x,y,Player.x,Player.y),4);

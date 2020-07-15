@@ -1,0 +1,4 @@
+sprite_index = ChestOpen;
+
+
+
